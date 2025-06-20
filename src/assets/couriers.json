@@ -1,0 +1,4037 @@
+{
+    "1": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": null
+    },
+    "2": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 99.0,
+        "volumetric_max_weight": null
+    },
+    "3": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": null
+    },
+    "4": {
+        "surface_max_weight": 7.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "5": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "6": {
+        "surface_max_weight": 1.5,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "7": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 2.5,
+        "volumetric_max_weight": null
+    },
+    "8": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 2.0,
+        "volumetric_max_weight": null
+    },
+    "9": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": null
+    },
+    "10": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 25.0,
+        "volumetric_max_weight": null
+    },
+    "11": {
+        "surface_max_weight": 15.0,
+        "air_max_weight": 15.0,
+        "volumetric_max_weight": null
+    },
+    "12": {
+        "surface_max_weight": 99.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "13": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": null
+    },
+    "14": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "15": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": null
+    },
+    "16": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "17": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "18": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "19": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "20": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "21": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": null
+    },
+    "22": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "23": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "24": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "25": {
+        "surface_max_weight": 9.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "26": {
+        "surface_max_weight": 85.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "27": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 0.5,
+        "volumetric_max_weight": null
+    },
+    "28": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 7.0,
+        "volumetric_max_weight": 23.0
+    },
+    "29": {
+        "surface_max_weight": 1.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "30": {
+        "surface_max_weight": 99.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "31": {
+        "surface_max_weight": 99.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "32": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "33": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": null
+    },
+    "34": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": null
+    },
+    "35": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": null
+    },
+    "36": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 68.0,
+        "volumetric_max_weight": null
+    },
+    "37": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 2.0,
+        "volumetric_max_weight": null
+    },
+    "38": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 20.0,
+        "volumetric_max_weight": null
+    },
+    "39": {
+        "surface_max_weight": 9.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "40": {
+        "surface_max_weight": 7.99,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "41": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 99.0,
+        "volumetric_max_weight": null
+    },
+    "42": {
+        "surface_max_weight": 99.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "43": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "44": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "45": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "46": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "47": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 3.5,
+        "volumetric_max_weight": null
+    },
+    "48": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 7.0,
+        "volumetric_max_weight": 23.0
+    },
+    "49": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "50": {
+        "surface_max_weight": 99.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "51": {
+        "surface_max_weight": 1.5,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "52": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 25.0,
+        "volumetric_max_weight": null
+    },
+    "53": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "54": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "55": {
+        "surface_max_weight": 7.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "56": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "57": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 10.0,
+        "volumetric_max_weight": null
+    },
+    "58": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "59": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "60": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "61": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "62": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "63": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": null
+    },
+    "64": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": null
+    },
+    "65": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "66": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "67": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "68": {
+        "surface_max_weight": 25.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "69": {
+        "surface_max_weight": 20.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 20.0
+    },
+    "70": {
+        "surface_max_weight": 150.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "71": {
+        "surface_max_weight": 2000.0,
+        "air_max_weight": 2000.0,
+        "volumetric_max_weight": null
+    },
+    "72": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 33.0,
+        "volumetric_max_weight": null
+    },
+    "73": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": null
+    },
+    "74": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "75": {
+        "surface_max_weight": 99.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "76": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "77": {
+        "surface_max_weight": 20.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "78": {
+        "surface_max_weight": 500.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "79": {
+        "surface_max_weight": 99.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "80": {
+        "surface_max_weight": 35.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "81": {
+        "surface_max_weight": 99.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "82": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "83": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "84": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": null
+    },
+    "85": {
+        "surface_max_weight": 99.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "86": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 20.0,
+        "volumetric_max_weight": null
+    },
+    "87": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "88": {
+        "surface_max_weight": 20.0,
+        "air_max_weight": 25.0,
+        "volumetric_max_weight": null
+    },
+    "89": {
+        "surface_max_weight": 500.0,
+        "air_max_weight": 25.0,
+        "volumetric_max_weight": null
+    },
+    "90": {
+        "surface_max_weight": 99.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "91": {
+        "surface_max_weight": 99.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "92": {
+        "surface_max_weight": 99.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "93": {
+        "surface_max_weight": 99.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "94": {
+        "surface_max_weight": 99.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "95": {
+        "surface_max_weight": 15.0,
+        "air_max_weight": null,
+        "volumetric_max_weight": null
+    },
+    "96": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "97": {
+        "surface_max_weight": 15.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 1.0
+    },
+    "98": {
+        "surface_max_weight": 99.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "99": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "100": {
+        "surface_max_weight": 19.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "101": {
+        "surface_max_weight": 500.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "102": {
+        "surface_max_weight": 15.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "103": {
+        "surface_max_weight": 100.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "104": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "105": {
+        "surface_max_weight": 1000.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "106": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 1.0
+    },
+    "107": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 1.0
+    },
+    "108": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": null,
+        "volumetric_max_weight": null
+    },
+    "109": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": null,
+        "volumetric_max_weight": null
+    },
+    "110": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 25.0,
+        "volumetric_max_weight": null
+    },
+    "111": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 25.0,
+        "volumetric_max_weight": null
+    },
+    "112": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 7.0,
+        "volumetric_max_weight": 23.0
+    },
+    "113": {
+        "surface_max_weight": 1000.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "114": {
+        "surface_max_weight": 99.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "115": {
+        "surface_max_weight": 15.0,
+        "air_max_weight": 35.0,
+        "volumetric_max_weight": null
+    },
+    "116": {
+        "surface_max_weight": 99.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "117": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 20.0,
+        "volumetric_max_weight": null
+    },
+    "118": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 33.0,
+        "volumetric_max_weight": null
+    },
+    "119": {
+        "surface_max_weight": 0.51,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "120": {
+        "surface_max_weight": 500.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "121": {
+        "surface_max_weight": 0.51,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "122": {
+        "surface_max_weight": 500.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "123": {
+        "surface_max_weight": 0.51,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "124": {
+        "surface_max_weight": 500.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "125": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "126": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": null
+    },
+    "127": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": null
+    },
+    "128": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "129": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 1.0
+    },
+    "130": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 12.0
+    },
+    "131": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "132": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": null
+    },
+    "133": {
+        "surface_max_weight": 40.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "134": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": 5.0
+    },
+    "135": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": null,
+        "volumetric_max_weight": 5.0
+    },
+    "136": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": null
+    },
+    "137": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "138": {
+        "surface_max_weight": 18.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "139": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "140": {
+        "surface_max_weight": 100.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 33.0
+    },
+    "141": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 20.0,
+        "volumetric_max_weight": null
+    },
+    "142": {
+        "surface_max_weight": 1.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "143": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 2.5,
+        "volumetric_max_weight": 2.5
+    },
+    "144": {
+        "surface_max_weight": 15.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": 25.0
+    },
+    "145": {
+        "surface_max_weight": 15.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": 25.0
+    },
+    "146": {
+        "surface_max_weight": 20.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 20.0
+    },
+    "147": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "148": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "149": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 1.0
+    },
+    "150": {
+        "surface_max_weight": 15.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": 25.0
+    },
+    "151": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": null,
+        "volumetric_max_weight": 5.0
+    },
+    "152": {
+        "surface_max_weight": 2.5,
+        "air_max_weight": null,
+        "volumetric_max_weight": 2.5
+    },
+    "153": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": null,
+        "volumetric_max_weight": 5.0
+    },
+    "154": {
+        "surface_max_weight": null,
+        "air_max_weight": 20.0,
+        "volumetric_max_weight": 20.0
+    },
+    "155": {
+        "surface_max_weight": 3.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "156": {
+        "surface_max_weight": 15.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": 25.0
+    },
+    "157": {
+        "surface_max_weight": 15.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": 25.0
+    },
+    "158": {
+        "surface_max_weight": 15.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": 25.0
+    },
+    "159": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 50.0
+    },
+    "160": {
+        "surface_max_weight": 100.0,
+        "air_max_weight": null,
+        "volumetric_max_weight": 30.0
+    },
+    "161": {
+        "surface_max_weight": 3.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 3.0
+    },
+    "162": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "163": {
+        "surface_max_weight": 25.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 25.0
+    },
+    "164": {
+        "surface_max_weight": 15.0,
+        "air_max_weight": null,
+        "volumetric_max_weight": 15.0
+    },
+    "165": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": null
+    },
+    "166": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 1.0
+    },
+    "167": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": null,
+        "volumetric_max_weight": null
+    },
+    "168": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "169": {
+        "surface_max_weight": 0.25,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 0.25
+    },
+    "170": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 12.0
+    },
+    "171": {
+        "surface_max_weight": 9.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 12.0
+    },
+    "172": {
+        "surface_max_weight": 0.25,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 1.0
+    },
+    "173": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 20.0
+    },
+    "174": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "175": {
+        "surface_max_weight": 25.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 25.0
+    },
+    "176": {
+        "surface_max_weight": 25.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 25.0
+    },
+    "177": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "178": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "179": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "180": {
+        "surface_max_weight": 100.0,
+        "air_max_weight": 100.0,
+        "volumetric_max_weight": null
+    },
+    "181": {
+        "surface_max_weight": 19.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "182": {
+        "surface_max_weight": 18.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "183": {
+        "surface_max_weight": 200.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "184": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": null
+    },
+    "185": {
+        "surface_max_weight": 100.0,
+        "air_max_weight": 100.0,
+        "volumetric_max_weight": null
+    },
+    "186": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "187": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": 5.0
+    },
+    "188": {
+        "surface_max_weight": 2.5,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 2.5
+    },
+    "189": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "190": {
+        "surface_max_weight": 6.5,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 6.5
+    },
+    "191": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.8
+    },
+    "192": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.8
+    },
+    "193": {
+        "surface_max_weight": 35.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 35.0
+    },
+    "194": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 30.0
+    },
+    "195": {
+        "surface_max_weight": 1.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "196": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 32.0,
+        "volumetric_max_weight": null
+    },
+    "197": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 25.0,
+        "volumetric_max_weight": 25.0
+    },
+    "198": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 4.0
+    },
+    "199": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "200": {
+        "surface_max_weight": 3.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 3.0
+    },
+    "201": {
+        "surface_max_weight": 2000.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "202": {
+        "surface_max_weight": 35.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 35.0
+    },
+    "203": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": 5.0
+    },
+    "204": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "205": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "206": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 20.0
+    },
+    "207": {
+        "surface_max_weight": 13.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "208": {
+        "surface_max_weight": 100.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "209": {
+        "surface_max_weight": 100.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 100.0
+    },
+    "210": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "211": {
+        "surface_max_weight": 20.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 50.0
+    },
+    "212": {
+        "surface_max_weight": 50.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 50.0
+    },
+    "213": {
+        "surface_max_weight": 20.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 20.0
+    },
+    "214": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 12.0
+    },
+    "215": {
+        "surface_max_weight": 50.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 50.0
+    },
+    "216": {
+        "surface_max_weight": 20.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 20.0
+    },
+    "217": {
+        "surface_max_weight": null,
+        "air_max_weight": 35.0,
+        "volumetric_max_weight": 35.0
+    },
+    "218": {
+        "surface_max_weight": 300.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "219": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "220": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "221": {
+        "surface_max_weight": 0.25,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 0.25
+    },
+    "222": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": 5.0
+    },
+    "223": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 4.0,
+        "volumetric_max_weight": 4.0
+    },
+    "224": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "225": {
+        "surface_max_weight": 35.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 35.0
+    },
+    "226": {
+        "surface_max_weight": 300.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 300.0
+    },
+    "227": {
+        "surface_max_weight": 300.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 300.0
+    },
+    "228": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "229": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": 5.0
+    },
+    "230": {
+        "surface_max_weight": 300.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 300.0
+    },
+    "231": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": 4.0
+    },
+    "232": {
+        "surface_max_weight": 6.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 6.0
+    },
+    "233": {
+        "surface_max_weight": 18.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 18.0
+    },
+    "234": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "235": {
+        "surface_max_weight": 200.0,
+        "air_max_weight": 200.0,
+        "volumetric_max_weight": 200.0
+    },
+    "236": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "237": {
+        "surface_max_weight": 50.0,
+        "air_max_weight": 50.0,
+        "volumetric_max_weight": 50.0
+    },
+    "238": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "239": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "240": {
+        "surface_max_weight": 50.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 50.0
+    },
+    "241": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 2.5
+    },
+    "242": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 2.5
+    },
+    "243": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": null
+    },
+    "244": {
+        "surface_max_weight": 0.25,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 0.25
+    },
+    "245": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "246": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "247": {
+        "surface_max_weight": 20.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 20.0
+    },
+    "248": {
+        "surface_max_weight": 1.5,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 1.5
+    },
+    "249": {
+        "surface_max_weight": 35.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 35.0
+    },
+    "250": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "251": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "252": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "253": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "254": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "255": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": 2.5
+    },
+    "256": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "257": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "258": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": 2.5
+    },
+    "259": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": 2.5
+    },
+    "260": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 100.0,
+        "volumetric_max_weight": 2.5
+    },
+    "261": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "262": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10.0
+    },
+    "263": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 2.0,
+        "volumetric_max_weight": null
+    },
+    "264": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "265": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "266": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "267": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "268": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "269": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "270": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "271": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "272": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "273": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 4.0
+    },
+    "274": {
+        "surface_max_weight": 6.5,
+        "air_max_weight": 6.5,
+        "volumetric_max_weight": 6.5
+    },
+    "275": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "276": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "277": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "278": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 30.0
+    },
+    "279": {
+        "surface_max_weight": 0.35,
+        "air_max_weight": 0.35,
+        "volumetric_max_weight": 0.35
+    },
+    "280": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "281": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "282": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "283": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "284": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "285": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "286": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "287": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "288": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "289": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 4.0
+    },
+    "290": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "291": {
+        "surface_max_weight": 70.0,
+        "air_max_weight": 70.0,
+        "volumetric_max_weight": 70.0
+    },
+    "292": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "293": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "294": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "295": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "296": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "297": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "298": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "299": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "300": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 10.0,
+        "volumetric_max_weight": null
+    },
+    "301": {
+        "surface_max_weight": 2000.0,
+        "air_max_weight": null,
+        "volumetric_max_weight": 2000.0
+    },
+    "302": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 4.0
+    },
+    "303": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "304": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": null,
+        "volumetric_max_weight": 5.0
+    },
+    "305": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": null,
+        "volumetric_max_weight": 30.0
+    },
+    "306": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": null,
+        "volumetric_max_weight": 10.0
+    },
+    "307": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "308": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 0.5,
+        "volumetric_max_weight": 0.5
+    },
+    "309": {
+        "surface_max_weight": 2.0,
+        "air_max_weight": null,
+        "volumetric_max_weight": 2.0
+    },
+    "310": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 30.0
+    },
+    "311": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 35.0,
+        "volumetric_max_weight": 35.0
+    },
+    "312": {
+        "surface_max_weight": 0.25,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 0.25
+    },
+    "313": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "314": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 1.0
+    },
+    "315": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 1.0
+    },
+    "316": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 1.0
+    },
+    "317": {
+        "surface_max_weight": 3.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "318": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "319": {
+        "surface_max_weight": 7.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 7.0
+    },
+    "320": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 30.0
+    },
+    "321": {
+        "surface_max_weight": 2.5,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 2.5
+    },
+    "322": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": null
+    },
+    "323": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": null
+    },
+    "324": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": null
+    },
+    "325": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "326": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": null
+    },
+    "327": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": null
+    },
+    "328": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": null
+    },
+    "329": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": null
+    },
+    "330": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 2.0,
+        "volumetric_max_weight": null
+    },
+    "331": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 2.0,
+        "volumetric_max_weight": null
+    },
+    "332": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "333": {
+        "surface_max_weight": 100.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 100.0
+    },
+    "334": {
+        "surface_max_weight": 100.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 100.0
+    },
+    "335": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "336": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "337": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 30.0
+    },
+    "338": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 30.0
+    },
+    "339": {
+        "surface_max_weight": 20.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 4.0
+    },
+    "340": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "341": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "342": {
+        "surface_max_weight": 33.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 33.0
+    },
+    "343": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "344": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 12.0
+    },
+    "345": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 12.0
+    },
+    "346": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 12.0
+    },
+    "347": {
+        "surface_max_weight": 1.5,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 1.5
+    },
+    "348": {
+        "surface_max_weight": 7.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 7.0
+    },
+    "349": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "350": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 4.0
+    },
+    "351": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 25.0,
+        "volumetric_max_weight": null
+    },
+    "352": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "353": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": null
+    },
+    "354": {
+        "surface_max_weight": 1.5,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "355": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "356": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "357": {
+        "surface_max_weight": 1.5,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "358": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": null,
+        "volumetric_max_weight": 5.0
+    },
+    "359": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "360": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "361": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "362": {
+        "surface_max_weight": 1.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "363": {
+        "surface_max_weight": 1.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "364": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "365": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "366": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": null
+    },
+    "367": {
+        "surface_max_weight": 7.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "368": {
+        "surface_max_weight": 7.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "369": {
+        "surface_max_weight": 25.0,
+        "air_max_weight": null,
+        "volumetric_max_weight": 25.0
+    },
+    "370": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 4.0
+    },
+    "371": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 12.0
+    },
+    "372": {
+        "surface_max_weight": 7.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "373": {
+        "surface_max_weight": 1.5,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "374": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": null,
+        "volumetric_max_weight": 30.0
+    },
+    "375": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "376": {
+        "surface_max_weight": 25.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 25.0
+    },
+    "377": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 4.0
+    },
+    "378": {
+        "surface_max_weight": 0.25,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 0.25
+    },
+    "379": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": 30.0
+    },
+    "380": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": 30.0
+    },
+    "381": {
+        "surface_max_weight": 100.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 33.0
+    },
+    "382": {
+        "surface_max_weight": 50.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 50.0
+    },
+    "383": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10.0
+    },
+    "384": {
+        "surface_max_weight": 33.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 33.0
+    },
+    "385": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "386": {
+        "surface_max_weight": 0.3,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 0.3
+    },
+    "387": {
+        "surface_max_weight": 0.3,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 0.3
+    },
+    "388": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 12.0
+    },
+    "389": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 35.0,
+        "volumetric_max_weight": 35.0
+    },
+    "390": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "391": {
+        "surface_max_weight": 7.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "392": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": null
+    },
+    "393": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "394": {
+        "surface_max_weight": 20.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 20.0
+    },
+    "395": {
+        "surface_max_weight": 0.25,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 0.25
+    },
+    "396": {
+        "surface_max_weight": 35.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 35.0
+    },
+    "397": {
+        "surface_max_weight": 0.3,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 0.3
+    },
+    "398": {
+        "surface_max_weight": 0.25,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 0.25
+    },
+    "399": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 0.25,
+        "volumetric_max_weight": 0.25
+    },
+    "400": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 35.0,
+        "volumetric_max_weight": 35.0
+    },
+    "401": {
+        "surface_max_weight": 150.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 150.0
+    },
+    "402": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "403": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 30.0
+    },
+    "404": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 4.0
+    },
+    "405": {
+        "surface_max_weight": 7.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 7.0
+    },
+    "406": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "407": {
+        "surface_max_weight": 18.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 18.0
+    },
+    "408": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 20.0
+    },
+    "409": {
+        "surface_max_weight": 100.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "410": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "411": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "412": {
+        "surface_max_weight": 50.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 50.0
+    },
+    "413": {
+        "surface_max_weight": 50.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 50.0
+    },
+    "414": {
+        "surface_max_weight": 2.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 2.0
+    },
+    "415": {
+        "surface_max_weight": 20.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "416": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 30.0
+    },
+    "417": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 20.0
+    },
+    "418": {
+        "surface_max_weight": 35.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 35.0
+    },
+    "419": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "420": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "421": {
+        "surface_max_weight": 3.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 3.0
+    },
+    "422": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": null
+    },
+    "423": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 25.0,
+        "volumetric_max_weight": null
+    },
+    "424": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 7.0,
+        "volumetric_max_weight": 7.0
+    },
+    "425": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "426": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": 5.0
+    },
+    "427": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": 30.0
+    },
+    "428": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "429": {
+        "surface_max_weight": 2.0,
+        "air_max_weight": 2.0,
+        "volumetric_max_weight": 12.0
+    },
+    "430": {
+        "surface_max_weight": 3.0,
+        "air_max_weight": 3.0,
+        "volumetric_max_weight": 3.0
+    },
+    "431": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 30.0
+    },
+    "432": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "433": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "434": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 30.0
+    },
+    "435": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": 30.0
+    },
+    "436": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 30.0
+    },
+    "437": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 30.0
+    },
+    "438": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "439": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "440": {
+        "surface_max_weight": 33.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 33.0
+    },
+    "441": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "442": {
+        "surface_max_weight": 33.0,
+        "air_max_weight": 33.0,
+        "volumetric_max_weight": 33.0
+    },
+    "443": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "444": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 120.0,
+        "volumetric_max_weight": 120.0
+    },
+    "445": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": null
+    },
+    "446": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "447": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "448": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "449": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "450": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "451": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 25.0,
+        "volumetric_max_weight": 25.0
+    },
+    "452": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 4.0
+    },
+    "453": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 30.0
+    },
+    "454": {
+        "surface_max_weight": 2.5,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 2.5
+    },
+    "455": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "456": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "457": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "458": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "459": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "460": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "461": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "462": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": 5000.0
+    },
+    "463": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": 30.0
+    },
+    "464": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": 30.0
+    },
+    "465": {
+        "surface_max_weight": 1000.0,
+        "air_max_weight": 1000.0,
+        "volumetric_max_weight": 1000.0
+    },
+    "466": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "467": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": 30.0
+    },
+    "468": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": 30.0
+    },
+    "469": {
+        "surface_max_weight": 1000.0,
+        "air_max_weight": 1000.0,
+        "volumetric_max_weight": 1000.0
+    },
+    "470": {
+        "surface_max_weight": 1000.0,
+        "air_max_weight": 1000.0,
+        "volumetric_max_weight": 1000.0
+    },
+    "471": {
+        "surface_max_weight": 1000.0,
+        "air_max_weight": 1000.0,
+        "volumetric_max_weight": 1000.0
+    },
+    "472": {
+        "surface_max_weight": 1000.0,
+        "air_max_weight": 1000.0,
+        "volumetric_max_weight": 1000.0
+    },
+    "473": {
+        "surface_max_weight": 1000.0,
+        "air_max_weight": 1000.0,
+        "volumetric_max_weight": 1000.0
+    },
+    "474": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "475": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "476": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "477": {
+        "surface_max_weight": 1000.0,
+        "air_max_weight": 1000.0,
+        "volumetric_max_weight": 1000.0
+    },
+    "478": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "479": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "480": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "481": {
+        "surface_max_weight": 100.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 33.0
+    },
+    "482": {
+        "surface_max_weight": 50.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 50.0
+    },
+    "483": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10.0
+    },
+    "484": {
+        "surface_max_weight": 100.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 33.0
+    },
+    "485": {
+        "surface_max_weight": 50.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 50.0
+    },
+    "486": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10.0
+    },
+    "487": {
+        "surface_max_weight": 9.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 9.0
+    },
+    "488": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 100.0,
+        "volumetric_max_weight": null
+    },
+    "489": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 100.0,
+        "volumetric_max_weight": null
+    },
+    "490": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 100.0,
+        "volumetric_max_weight": null
+    },
+    "491": {
+        "surface_max_weight": 1000.0,
+        "air_max_weight": 1000.0,
+        "volumetric_max_weight": 1000.0
+    },
+    "492": {
+        "surface_max_weight": 1000.0,
+        "air_max_weight": 1000.0,
+        "volumetric_max_weight": 1000.0
+    },
+    "493": {
+        "surface_max_weight": 100.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 33.0
+    },
+    "494": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "495": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "496": {
+        "surface_max_weight": 1000.0,
+        "air_max_weight": 1000.0,
+        "volumetric_max_weight": 1000.0
+    },
+    "497": {
+        "surface_max_weight": 9.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 9.0
+    },
+    "498": {
+        "surface_max_weight": 9.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 9.0
+    },
+    "499": {
+        "surface_max_weight": 150.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "500": {
+        "surface_max_weight": 33.0,
+        "air_max_weight": 33.0,
+        "volumetric_max_weight": 33.0
+    },
+    "501": {
+        "surface_max_weight": 1000.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "502": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "503": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "504": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "505": {
+        "surface_max_weight": 500.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "506": {
+        "surface_max_weight": 35.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "507": {
+        "surface_max_weight": 18.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "508": {
+        "surface_max_weight": 35.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "509": {
+        "surface_max_weight": 100.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "510": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 33.0,
+        "volumetric_max_weight": null
+    },
+    "511": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "512": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "513": {
+        "surface_max_weight": 500.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "514": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "515": {
+        "surface_max_weight": 500.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "516": {
+        "surface_max_weight": 0.51,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "517": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 33.0,
+        "volumetric_max_weight": null
+    },
+    "518": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": null
+    },
+    "519": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 25.0,
+        "volumetric_max_weight": null
+    },
+    "520": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 7.0,
+        "volumetric_max_weight": 23.0
+    },
+    "521": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 7.0,
+        "volumetric_max_weight": 23.0
+    },
+    "522": {
+        "surface_max_weight": 60.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "523": {
+        "surface_max_weight": 60.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "524": {
+        "surface_max_weight": 500.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "525": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": null
+    },
+    "526": {
+        "surface_max_weight": 59.99,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "527": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 10.0,
+        "volumetric_max_weight": 23.0
+    },
+    "528": {
+        "surface_max_weight": 9.99,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "529": {
+        "surface_max_weight": 19.99,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "530": {
+        "surface_max_weight": 20.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "531": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "532": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 7.0,
+        "volumetric_max_weight": 23.0
+    },
+    "533": {
+        "surface_max_weight": 500.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "534": {
+        "surface_max_weight": 500.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "535": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "536": {
+        "surface_max_weight": 20.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "537": {
+        "surface_max_weight": 60.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "538": {
+        "surface_max_weight": 500.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "539": {
+        "surface_max_weight": 500.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "540": {
+        "surface_max_weight": 500.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "541": {
+        "surface_max_weight": 1000.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "542": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "543": {
+        "surface_max_weight": 400.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "544": {
+        "surface_max_weight": 500.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "545": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 4.0,
+        "volumetric_max_weight": null
+    },
+    "546": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 4.0,
+        "volumetric_max_weight": null
+    },
+    "547": {
+        "surface_max_weight": 179.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "548": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 4.0,
+        "volumetric_max_weight": null
+    },
+    "549": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 4.0,
+        "volumetric_max_weight": null
+    },
+    "550": {
+        "surface_max_weight": 179.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "551": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 1000.0,
+        "volumetric_max_weight": null
+    },
+    "552": {
+        "surface_max_weight": 400.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "553": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 3.5,
+        "volumetric_max_weight": null
+    },
+    "554": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 10.0,
+        "volumetric_max_weight": null
+    },
+    "601": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 0.5,
+        "volumetric_max_weight": 0.5
+    },
+    "602": {
+        "surface_max_weight": 2.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 2.0
+    },
+    "603": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "604": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "605": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 30.0
+    },
+    "606": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 30.0
+    },
+    "607": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 30.0
+    },
+    "608": {
+        "surface_max_weight": 0.25,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 0.25
+    },
+    "609": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 30.0
+    },
+    "610": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "611": {
+        "surface_max_weight": 2.5,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 2.5
+    },
+    "612": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "613": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 4.0,
+        "volumetric_max_weight": 4.0
+    },
+    "614": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 4.0
+    },
+    "615": {
+        "surface_max_weight": 3.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 3.0
+    },
+    "616": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "617": {
+        "surface_max_weight": 3.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 3.0
+    },
+    "618": {
+        "surface_max_weight": 3.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 3.0
+    },
+    "619": {
+        "surface_max_weight": 3.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 3.0
+    },
+    "620": {
+        "surface_max_weight": 100.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 100.0
+    },
+    "621": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 2.0,
+        "volumetric_max_weight": null
+    },
+    "622": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 2.0,
+        "volumetric_max_weight": null
+    },
+    "623": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": 30.0
+    },
+    "624": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": 30.0
+    },
+    "625": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "626": {
+        "surface_max_weight": 27.5,
+        "air_max_weight": 27.5,
+        "volumetric_max_weight": 30.0
+    },
+    "627": {
+        "surface_max_weight": 6.0,
+        "air_max_weight": 6.0,
+        "volumetric_max_weight": 6.0
+    },
+    "628": {
+        "surface_max_weight": 6.0,
+        "air_max_weight": 6.0,
+        "volumetric_max_weight": 6.0
+    },
+    "629": {
+        "surface_max_weight": 33.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 33.0
+    },
+    "630": {
+        "surface_max_weight": 6.0,
+        "air_max_weight": 6.0,
+        "volumetric_max_weight": 6.0
+    },
+    "631": {
+        "surface_max_weight": 6.0,
+        "air_max_weight": 6.0,
+        "volumetric_max_weight": 6.0
+    },
+    "632": {
+        "surface_max_weight": 6.0,
+        "air_max_weight": 6.0,
+        "volumetric_max_weight": 6.0
+    },
+    "633": {
+        "surface_max_weight": 3.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 3.0
+    },
+    "634": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 30.0
+    },
+    "635": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "636": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 4.0
+    },
+    "637": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 4.0
+    },
+    "638": {
+        "surface_max_weight": 1000.0,
+        "air_max_weight": 1000.0,
+        "volumetric_max_weight": 1000.0
+    },
+    "639": {
+        "surface_max_weight": 1000.0,
+        "air_max_weight": 1000.0,
+        "volumetric_max_weight": 1000.0
+    },
+    "640": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "641": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "642": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "643": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "644": {
+        "surface_max_weight": 1000.0,
+        "air_max_weight": 1000.0,
+        "volumetric_max_weight": 1000.0
+    },
+    "645": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "646": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": 5.0
+    },
+    "647": {
+        "surface_max_weight": 7.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 7.0
+    },
+    "648": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "649": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 4.0
+    },
+    "650": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "651": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 25.0,
+        "volumetric_max_weight": 25.0
+    },
+    "652": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 4.0
+    },
+    "653": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": 30.0
+    },
+    "654": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 30.0
+    },
+    "655": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 4.0
+    },
+    "656": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "657": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "658": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "659": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "660": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "661": {
+        "surface_max_weight": 1000.0,
+        "air_max_weight": 1000.0,
+        "volumetric_max_weight": 1000.0
+    },
+    "662": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 32.0,
+        "volumetric_max_weight": 32.0
+    },
+    "663": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "664": {
+        "surface_max_weight": 120.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 120.0
+    },
+    "665": {
+        "surface_max_weight": 120.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 120.0
+    },
+    "666": {
+        "surface_max_weight": 1000.0,
+        "air_max_weight": 1000.0,
+        "volumetric_max_weight": 1000.0
+    },
+    "667": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": null
+    },
+    "668": {
+        "surface_max_weight": 1000.0,
+        "air_max_weight": 1000.0,
+        "volumetric_max_weight": 1000.0
+    },
+    "669": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 10.0,
+        "volumetric_max_weight": 10.0
+    },
+    "670": {
+        "surface_max_weight": 0.25,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 0.25
+    },
+    "671": {
+        "surface_max_weight": 1.5,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 1.5
+    },
+    "672": {
+        "surface_max_weight": 1.5,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 1.5
+    },
+    "673": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 4.0
+    },
+    "674": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "675": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": 5.0
+    },
+    "676": {
+        "surface_max_weight": 19.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 19.0
+    },
+    "677": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 4.0
+    },
+    "678": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": 5.0
+    },
+    "679": {
+        "surface_max_weight": 1000.0,
+        "air_max_weight": 1000.0,
+        "volumetric_max_weight": 1000.0
+    },
+    "680": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": 5.0
+    },
+    "681": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": 5.0
+    },
+    "682": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "683": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": null
+    },
+    "684": {
+        "surface_max_weight": 1.5,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 1.5
+    },
+    "685": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 4.0
+    },
+    "686": {
+        "surface_max_weight": 7.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 7.0
+    },
+    "687": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": null
+    },
+    "688": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": null
+    },
+    "689": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": null
+    },
+    "690": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": null
+    },
+    "691": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": null
+    },
+    "692": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": null
+    },
+    "693": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": null
+    },
+    "694": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": null
+    },
+    "695": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "696": {
+        "surface_max_weight": 0.25,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 0.25
+    },
+    "697": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "698": {
+        "surface_max_weight": 1.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 1.0
+    },
+    "699": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 4.0
+    },
+    "700": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "701": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "702": {
+        "surface_max_weight": 1000.0,
+        "air_max_weight": 1000.0,
+        "volumetric_max_weight": 1000.0
+    },
+    "703": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "704": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "705": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "706": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "707": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "708": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "709": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "710": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "711": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "712": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "713": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "714": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "715": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "716": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "717": {
+        "surface_max_weight": 50.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 50.0
+    },
+    "718": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "719": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "720": {
+        "surface_max_weight": 2.5,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 2.5
+    },
+    "721": {
+        "surface_max_weight": 2.5,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 2.5
+    },
+    "722": {
+        "surface_max_weight": 2.5,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 2.5
+    },
+    "723": {
+        "surface_max_weight": 1.5,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 1.5
+    },
+    "724": {
+        "surface_max_weight": 0.5,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 0.5
+    },
+    "725": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "726": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": 5.0
+    },
+    "727": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 4.0
+    },
+    "728": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 12.0
+    },
+    "729": {
+        "surface_max_weight": 9.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 9.0
+    },
+    "730": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "731": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "732": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "733": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "734": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "735": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "736": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "737": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "738": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "739": {
+        "surface_max_weight": 33.0,
+        "air_max_weight": 33.0,
+        "volumetric_max_weight": 33.0
+    },
+    "740": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "741": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "742": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "743": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "744": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "745": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "746": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 10000.0
+    },
+    "747": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "748": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 30.0
+    },
+    "749": {
+        "surface_max_weight": 50.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": 50.0
+    },
+    "750": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": null
+    },
+    "751": {
+        "surface_max_weight": 0.5,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 0.5
+    },
+    "752": {
+        "surface_max_weight": 1000.0,
+        "air_max_weight": 1000.0,
+        "volumetric_max_weight": 1000.0
+    },
+    "753": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 4.0
+    },
+    "754": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 12.0
+    },
+    "755": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 4.0
+    },
+    "756": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 4.0
+    },
+    "769": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": null
+    },
+    "770": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": null
+    },
+    "771": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": null
+    },
+    "772": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": null
+    },
+    "773": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": null
+    },
+    "774": {
+        "surface_max_weight": 10000.0,
+        "air_max_weight": 10000.0,
+        "volumetric_max_weight": null
+    },
+    "777": {
+        "surface_max_weight": 30.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "800": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    },
+    "851": {
+        "surface_max_weight": 9.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 9.0
+    },
+    "853": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 5.0,
+        "volumetric_max_weight": 5.0
+    },
+    "854": {
+        "surface_max_weight": 1.5,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 1.5
+    },
+    "855": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "856": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 4.0
+    },
+    "857": {
+        "surface_max_weight": 9.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 9.0
+    },
+    "858": {
+        "surface_max_weight": 15.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "859": {
+        "surface_max_weight": 15.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 15.0
+    },
+    "860": {
+        "surface_max_weight": 15.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 15.0
+    },
+    "888": {
+        "surface_max_weight": 33.0,
+        "air_max_weight": 33.0,
+        "volumetric_max_weight": 33.0
+    },
+    "898": {
+        "surface_max_weight": 33.0,
+        "air_max_weight": 33.0,
+        "volumetric_max_weight": 33.0
+    },
+    "901": {
+        "surface_max_weight": 1000.0,
+        "air_max_weight": 2.0,
+        "volumetric_max_weight": 12.0
+    },
+    "909": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 25.0,
+        "volumetric_max_weight": null
+    },
+    "910": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "911": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "912": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 5.0
+    },
+    "913": {
+        "surface_max_weight": 20.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 20.0
+    },
+    "914": {
+        "surface_max_weight": 20.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 20.0
+    },
+    "915": {
+        "surface_max_weight": 20.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 20.0
+    },
+    "916": {
+        "surface_max_weight": 20.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 20.0
+    },
+    "920": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 12.0
+    },
+    "921": {
+        "surface_max_weight": 20.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 20.0
+    },
+    "922": {
+        "surface_max_weight": 20.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 20.0
+    },
+    "923": {
+        "surface_max_weight": 20.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 20.0
+    },
+    "924": {
+        "surface_max_weight": 20.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 20.0
+    },
+    "925": {
+        "surface_max_weight": 20.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 20.0
+    },
+    "926": {
+        "surface_max_weight": 20.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 20.0
+    },
+    "930": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 12.0
+    },
+    "931": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 12.0
+    },
+    "932": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "933": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "934": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "935": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "936": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 12.0
+    },
+    "937": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 12.0
+    },
+    "938": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 12.0
+    },
+    "939": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 12.0
+    },
+    "940": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "941": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "942": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 12.0
+    },
+    "943": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 12.0
+    },
+    "944": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "950": {
+        "surface_max_weight": 20.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 20.0
+    },
+    "951": {
+        "surface_max_weight": 50.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 50.0
+    },
+    "952": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "953": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 12.0
+    },
+    "954": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 12.0
+    },
+    "955": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "956": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "957": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "958": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "959": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "960": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "961": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "962": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "963": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "964": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "965": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "966": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "967": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "968": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "970": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "971": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "976": {
+        "surface_max_weight": 9999.0,
+        "air_max_weight": 9999.0,
+        "volumetric_max_weight": null
+    },
+    "977": {
+        "surface_max_weight": 3.0,
+        "air_max_weight": 9999.0,
+        "volumetric_max_weight": null
+    },
+    "978": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 12.0
+    },
+    "979": {
+        "surface_max_weight": 50.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 50.0
+    },
+    "980": {
+        "surface_max_weight": 9999.0,
+        "air_max_weight": 9999.0,
+        "volumetric_max_weight": null
+    },
+    "981": {
+        "surface_max_weight": 50.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 50.0
+    },
+    "982": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 10.0
+    },
+    "983": {
+        "surface_max_weight": 20.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 20.0
+    },
+    "984": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 12.0
+    },
+    "985": {
+        "surface_max_weight": 9999.0,
+        "air_max_weight": 9999.0,
+        "volumetric_max_weight": null
+    },
+    "986": {
+        "surface_max_weight": 9999.0,
+        "air_max_weight": 9999.0,
+        "volumetric_max_weight": null
+    },
+    "987": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 12.0
+    },
+    "988": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 10.0,
+        "volumetric_max_weight": null
+    },
+    "989": {
+        "surface_max_weight": 12.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": 12.0
+    },
+    "990": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "991": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "992": {
+        "surface_max_weight": 100.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "993": {
+        "surface_max_weight": 4.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "994": {
+        "surface_max_weight": 2.0,
+        "air_max_weight": 9999.0,
+        "volumetric_max_weight": null
+    },
+    "995": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 10.0,
+        "volumetric_max_weight": null
+    },
+    "996": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 10.0,
+        "volumetric_max_weight": null
+    },
+    "997": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "998": {
+        "surface_max_weight": 10.0,
+        "air_max_weight": 10.0,
+        "volumetric_max_weight": null
+    },
+    "999": {
+        "surface_max_weight": 33.0,
+        "air_max_weight": 33.0,
+        "volumetric_max_weight": 33.0
+    },
+    "1000": {
+        "surface_max_weight": 5.0,
+        "air_max_weight": 0.0,
+        "volumetric_max_weight": null
+    },
+    "1001": {
+        "surface_max_weight": 0.0,
+        "air_max_weight": 30.0,
+        "volumetric_max_weight": null
+    }
+}
