@@ -191,3 +191,30 @@ h2 {
   min-width: 140px;
   color: #333;
 }
+
+.tabs {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+  gap: 1rem;
+}
+.tabs button {
+  background: #f4f4f4;
+  border: 1px solid #ddd;
+  border-radius: 6px 6px 0 0;
+  padding: 0.75rem 2rem;
+  font-size: 1.1rem;
+  color: #333;
+  cursor: pointer;
+  outline: none;
+  transition: background 0.2s, color 0.2s;
+}
+.tabs button.active {
+  background: #007bff;
+  color: #fff;
+  border-bottom: 2px solid #007bff;
+  font-weight: bold;
+}
+.tabs button:not(.active):hover {
+  background: #e9e9e9;
+}

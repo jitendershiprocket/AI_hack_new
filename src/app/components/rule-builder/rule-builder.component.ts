@@ -8,13 +8,15 @@ import * as courierData from '../../../assets/couriers_detailed.json';
   styleUrls: ['./rule-builder.component.scss']
 })
 export class RuleBuilderComponent {
-  ruleText: string = 'For prepaid orders to Mumbai over 500gm, assign Delhivery.';
+  ruleText: string = 'For prepaid orders to Mumbai over 500 g, assign Delhivery.';
   parsedRule: any = null;
   warnings: string[] = [];
   isLoading: boolean = false;
   
   courierList: any;
   filteredCouriers: any[] = [];
+  myRules: { prompt: string, rule: any, couriers: any[], showCouriers: boolean }[] = [];
+  activeTab: 'create' | 'listing' = 'create';
 
   constructor(private apiService: ApiService) {
     // Flatten the new data structure into an array of courier objects with a 'name' property
@@ -37,6 +39,11 @@ export class RuleBuilderComponent {
           this.courierList.push(courier);
         }
       }
+    }
+    // Load rules from localStorage if present
+    const storedRules = localStorage.getItem('myRules');
+    if (storedRules) {
+      this.myRules = JSON.parse(storedRules);
     }
   }
 
@@ -177,11 +184,22 @@ export class RuleBuilderComponent {
       }
     }
 
-    return couriers.filter(courier => {
+    // Filtering logic
+    let filtered = couriers.filter(courier => {
       if (minWeight !== null && courier.min_weight !== undefined && courier.min_weight > minWeight) return false;
       if (maxWeight !== null && courier.min_weight !== undefined && courier.min_weight > maxWeight) return false;
       if (mode !== null && courier.mode !== undefined && Number(courier.mode) !== mode) return false;
-      if (callBeforeDelivery !== null && courier.call_before_delivery !== undefined && Number(courier.call_before_delivery) !== callBeforeDelivery) return false;
+      if (callBeforeDelivery !== null && courier.call_before_delivery !== undefined) {
+        const val = courier.call_before_delivery;
+        if (!(
+          val === 1 || val === '1' ||
+          (typeof val === 'string' && (
+            val.toLowerCase() === 'available' ||
+            val.toLowerCase() === 'on request' ||
+            val.toLowerCase() === 'yes'
+          ))
+        )) return false;
+      }
       if (realtimeTracking !== null && courier.realtime_tracking !== undefined && Number(courier.realtime_tracking) !== realtimeTracking) return false;
       if (deliveryBoyContact !== null && courier.delivery_boy_contact !== undefined && Number(courier.delivery_boy_contact) !== deliveryBoyContact) return false;
       if (podAvailable !== null && courier.pod_available !== undefined && Number(courier.pod_available) !== podAvailable) return false;
@@ -197,5 +215,44 @@ export class RuleBuilderComponent {
       if (isDgRestricted !== null && courier.is_dg_restricted_courier !== undefined && Number(courier.is_dg_restricted_courier) !== isDgRestricted) return false;
       return true;
     });
+
+    // If the rule specifies a preferred courier, show only that one
+    if (rule.action && rule.action.courier) {
+      const preferred = filtered.filter(c =>
+        c.name.toLowerCase().includes(rule.action.courier.toLowerCase())
+      );
+      if (preferred.length) return preferred;
+    }
+
+    // If there is a fallback and no preferred courier matched, show fallback
+    if (rule.fallback && rule.fallback.courier) {
+      const fallback = filtered.filter(c =>
+        c.name.toLowerCase().includes(rule.fallback.courier.toLowerCase())
+      );
+      if (fallback.length) return fallback;
+    }
+
+    // Otherwise, return the filtered list as before
+    return filtered;
+  }
+
+  saveCurrentRule() {
+    this.myRules.push({
+      prompt: this.ruleText,
+      rule: this.parsedRule,
+      couriers: this.filteredCouriers,
+      showCouriers: false
+    });
+    localStorage.setItem('myRules', JSON.stringify(this.myRules));
+  }
+
+  viewRuleCouriers(index: number) {
+    this.myRules.forEach((r, i) => r.showCouriers = i === index ? !r.showCouriers : false);
+    localStorage.setItem('myRules', JSON.stringify(this.myRules));
+  }
+
+  deleteRule(index: number) {
+    this.myRules.splice(index, 1);
+    localStorage.setItem('myRules', JSON.stringify(this.myRules));
   }
 }

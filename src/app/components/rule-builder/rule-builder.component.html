@@ -1,71 +1,129 @@
 <div class="rule-builder-container">
-  <h1>AI-Powered Courier Rule Builder</h1>
-  <p>Type your rule in plain English. The AI will do the rest.</p>
-
-  <textarea [(ngModel)]="ruleText" rows="4" placeholder="e.g., If the order is going to Delhi and weighs less than 2kg, prefer Delhivery."></textarea>
-  
-  <button (click)="onGenerateRule()" [disabled]="isLoading">
-    <span *ngIf="!isLoading">✨ Generate Rule</span>
-    <span *ngIf="isLoading">🧠 Thinking...</span>
-  </button>
-
-  <div *ngIf="isLoading" class="spinner-container">
-    <div class="spinner"></div>
+  <!-- Tabs -->
+  <div class="tabs">
+    <button [class.active]="activeTab === 'create'" (click)="activeTab = 'create'">Create Rule</button>
+    <button [class.active]="activeTab === 'listing'" (click)="activeTab = 'listing'">Rule Listing</button>
   </div>
 
-  <!-- --- Results Section --- -->
-  <div *ngIf="parsedRule && !isLoading" class="results-container">
-    <h2>Rule Preview</h2>
+  <!-- Create Rule Tab -->
+  <div *ngIf="activeTab === 'create'">
+    <h1>AI-Powered Courier Rule Builder</h1>
+    <p>Type your rule in plain English. The AI will do the rest.</p>
+
+    <textarea [(ngModel)]="ruleText" rows="4" placeholder="e.g., If the order is going to Delhi and weighs less than 2kg, prefer Delhivery."></textarea>
     
-    <div *ngIf="warnings.length > 0" class="warnings">
-      <div *ngFor="let warning of warnings">⚠️ {{ warning }}</div>
+    <button (click)="onGenerateRule()" [disabled]="isLoading">
+      <span *ngIf="!isLoading">✨ Generate Rule</span>
+      <span *ngIf="isLoading">🧠 Thinking...</span>
+    </button>
+
+    <div *ngIf="isLoading" class="spinner-container">
+      <div class="spinner"></div>
     </div>
 
-    <div class="rule-card">
-      <div class="rule-section">
-        <strong>WHEN:</strong>
-        <ul>
-          <li *ngFor="let condition of parsedRule.conditions">
-            `{{ condition.field }}` is {{ condition.operator }} `{{ condition.valueKg || condition.value }}`
-          </li>
-        </ul>
-      </div>
-
-      <div class="rule-section">
-        <strong>THEN ASSIGN:</strong>
-        <p>{{ parsedRule.action.courier | titlecase }}</p>
-      </div>
+    <!-- --- Results Section --- -->
+    <div *ngIf="parsedRule && !isLoading" class="results-container">
+      <h2>Rule Preview</h2>
       
-      <div *ngIf="parsedRule.fallback" class="rule-section">
-        <strong>OTHERWISE:</strong>
-        <p>{{ parsedRule.fallback.courier | titlecase }}</p>
+      <div *ngIf="warnings.length > 0" class="warnings">
+        <div *ngFor="let warning of warnings">⚠️ {{ warning }}</div>
       </div>
-    </div>
 
-    <h3>Matching Couriers:</h3>
-    <div class="courier-list">
-      <div class="courier-card" *ngFor="let c of filteredCouriers">
-        <div class="courier-logo">
-          <img *ngIf="c.image && c.image.logo" [src]="'assets/' + c.image.logo" [alt]="c.name" />
+      <div class="rule-card">
+        <div class="rule-section">
+          <strong>WHEN:</strong>
+          <ul>
+            <li *ngFor="let condition of parsedRule.conditions">
+              `{{ condition.field }}` is {{ condition.operator }} `{{ condition.valueKg || condition.value }}`
+            </li>
+          </ul>
         </div>
-        <div class="courier-info">
-          <h4>{{ c.name }}</h4>
-          <div class="courier-fields">
-            <div><strong>Min Weight:</strong> {{ c.min_weight }} kg</div>
-            <div><strong>Service Type:</strong> {{ c.service_type }}</div>
-            <div><strong>Real-time Tracking:</strong> {{ c.realtime_tracking }}</div>
-            <div><strong>Delivery Boy Contact:</strong> {{ c.delivery_boy_contact }}</div>
-            <div><strong>POD Available:</strong> {{ c.pod_available }}</div>
-            <div><strong>Call Before Delivery:</strong> {{ c.call_before_delivery }}</div>
-            <div><strong>Activated Date:</strong> {{ c.activated_date }}</div>
-            <div><strong>Is Hyperlocal:</strong> {{ c.is_hyperlocal ? 'Yes' : 'No' }}</div>
-            <div *ngIf="c.master_company"><strong>Master Company:</strong> {{ c.master_company }}</div>
-            <div *ngIf="c.status !== undefined"><strong>Status:</strong> {{ c.status }}</div>
-            <div *ngIf="c.type !== undefined"><strong>Type:</strong> {{ c.type }}</div>
-            <div *ngIf="c.mode !== undefined"><strong>Mode:</strong> {{ c.mode }}</div>
+
+        <div class="rule-section">
+          <strong>THEN ASSIGN:</strong>
+          <p>{{ parsedRule.action.courier | titlecase }}</p>
+        </div>
+        
+        <div *ngIf="parsedRule.fallback" class="rule-section">
+          <strong>OTHERWISE:</strong>
+          <p>{{ parsedRule.fallback.courier | titlecase }}</p>
+        </div>
+      </div>
+
+      <button *ngIf="parsedRule && filteredCouriers.length" (click)="saveCurrentRule()" style="width: 150px; font-size: 12px; margin-top: 1.5rem; margin-bottom: 1.5rem;">
+        Save This Rule
+      </button>
+
+      <h3>Matching Couriers:</h3>
+      <div class="courier-list">
+        <div class="courier-card" *ngFor="let c of filteredCouriers">
+          <div class="courier-logo">
+            <img *ngIf="c.image && c.image.logo" [src]="'assets/' + c.image.logo" [alt]="c.name" />
+          </div>
+          <div class="courier-info">
+            <h4>{{ c.name }}</h4>
+            <div class="courier-fields">
+              <div><strong>Min Weight:</strong> {{ c.min_weight }} kg</div>
+              <div><strong>Service Type:</strong> {{ c.service_type }}</div>
+              <div><strong>Real-time Tracking:</strong> {{ c.realtime_tracking }}</div>
+              <div><strong>Delivery Boy Contact:</strong> {{ c.delivery_boy_contact }}</div>
+              <div><strong>POD Available:</strong> {{ c.pod_available }}</div>
+              <div><strong>Call Before Delivery:</strong> {{ c.call_before_delivery }}</div>
+              <div><strong>Activated Date:</strong> {{ c.activated_date }}</div>
+              <div><strong>Is Hyperlocal:</strong> {{ c.is_hyperlocal ? 'Yes' : 'No' }}</div>
+              <div *ngIf="c.master_company"><strong>Master Company:</strong> {{ c.master_company }}</div>
+              <div *ngIf="c.status !== undefined"><strong>Status:</strong> {{ c.status }}</div>
+              <div *ngIf="c.type !== undefined"><strong>Type:</strong> {{ c.type }}</div>
+              <div *ngIf="c.mode !== undefined"><strong>Mode:</strong> {{ c.mode }}</div>
+            </div>
           </div>
         </div>
       </div>
+    </div>
+  </div>
+
+  <!-- Rule Listing Tab -->
+  <div *ngIf="activeTab === 'listing'">
+    <div *ngIf="myRules.length" class="my-rules-section">
+      <h3>My Rules</h3>
+      <div *ngFor="let r of myRules; let i = index" class="saved-rule">
+        <div>
+          <strong>Rule {{ i + 1 }}:</strong> {{ r.prompt }}
+          <button (click)="viewRuleCouriers(i)">
+            {{ r.showCouriers ? 'Hide Couriers' : 'View Couriers' }}
+          </button>
+          <button (click)="deleteRule(i)" class="delete-rule-btn" style="margin-left: 1rem; color: #fff; background: #dc3545; border: none; border-radius: 4px; padding: 0.3rem 0.8rem; font-size: 12px; cursor: pointer;">Delete</button>
+        </div>
+        <div *ngIf="r.showCouriers">
+          <div class="courier-list">
+            <div class="courier-card" *ngFor="let c of r.couriers">
+              <div class="courier-logo">
+                <img *ngIf="c.image && c.image.logo" [src]="'assets/' + c.image.logo" [alt]="c.name" />
+              </div>
+              <div class="courier-info">
+                <h4>{{ c.name }}</h4>
+                <div class="courier-fields">
+                  <div><strong>Min Weight:</strong> {{ c.min_weight }} kg</div>
+                  <div><strong>Service Type:</strong> {{ c.service_type }}</div>
+                  <div><strong>Real-time Tracking:</strong> {{ c.realtime_tracking }}</div>
+                  <div><strong>Delivery Boy Contact:</strong> {{ c.delivery_boy_contact }}</div>
+                  <div><strong>POD Available:</strong> {{ c.pod_available }}</div>
+                  <div><strong>Call Before Delivery:</strong> {{ c.call_before_delivery }}</div>
+                  <div><strong>Activated Date:</strong> {{ c.activated_date }}</div>
+                  <div><strong>Is Hyperlocal:</strong> {{ c.is_hyperlocal ? 'Yes' : 'No' }}</div>
+                  <div *ngIf="c.master_company"><strong>Master Company:</strong> {{ c.master_company }}</div>
+                  <div *ngIf="c.status !== undefined"><strong>Status:</strong> {{ c.status }}</div>
+                  <div *ngIf="c.type !== undefined"><strong>Type:</strong> {{ c.type }}</div>
+                  <div *ngIf="c.mode !== undefined"><strong>Mode:</strong> {{ c.mode }}</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div *ngIf="!myRules.length" class="my-rules-section">
+      <h3>No rules saved yet.</h3>
     </div>
   </div>
 </div>
